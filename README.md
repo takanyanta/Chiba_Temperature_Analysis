@@ -6,6 +6,17 @@ To try to use some "time series analysis techniques" for predicting Chiba city's
 
 ## Data Source
 
-Japan Meteorological Agency HP: [JMA](http://www.data.jma.go.jp/obd/stats/etrn/select/prefecture00.php)
+Japan Meteorological Agency: [JMA](http://www.data.jma.go.jp/obd/stats/etrn/select/prefecture00.php)
 
-## 
+## Major Used Libraries
+
+* statsmodels
+* tensorflow.keras
+
+## Used Time Series Analysis Techniques
+
+* AR
+* ARMA
+* ARIMA
+* SARIMAX
+* LSTM
